@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-08-03 13:21+0200\n"
+"PO-Revision-Date: 2015-08-03 13:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: edit-catalogue.php\n"
+"X-Poedit-SearchPath-1: sc-taxonomie.php\n"
+"X-Poedit-SearchPath-2: simple-catalogue.php\n"
+"X-Poedit-SearchPath-3: validation.php\n"
+
+#: edit-catalogue.php:19 sc-taxonomie.php:40
+msgid "Edit"
+msgstr ""
+
+#: edit-catalogue.php:27 edit-catalogue.php:30 simple-catalogue.php:94
+#: simple-catalogue.php:134
+msgid "Singular Name"
+msgstr "Nombre Singular"
+
+#: edit-catalogue.php:27 edit-catalogue.php:30 simple-catalogue.php:95
+#: simple-catalogue.php:135
+msgid "Plural Name"
+msgstr "Nombre del Plural"
+
+#: edit-catalogue.php:27 simple-catalogue.php:74
+msgid "Icon"
+msgstr ""
+
+#: edit-catalogue.php:27 edit-catalogue.php:30
+msgid "Actions"
+msgstr ""
+
+#: edit-catalogue.php:30 simple-catalogue.php:114
+msgid "Items attached"
+msgstr ""
+
+#: edit-catalogue.php:43 sc-taxonomie.php:41 simple-catalogue.php:59
+msgid "Update"
+msgstr "Actualizar"
+
+#: edit-catalogue.php:47
+msgid "Delete"
+msgstr ""
+
+#: sc-taxonomie.php:35
+msgid "All"
+msgstr ""
+
+#: sc-taxonomie.php:36
+msgid "Parent"
+msgstr ""
+
+#: sc-taxonomie.php:37
+msgid "Parent:"
+msgstr ""
+
+#: sc-taxonomie.php:38 simple-catalogue.php:74 simple-catalogue.php:114
+#: simple-catalogue.php:168 simple-catalogue.php:183
+msgid "Name"
+msgstr ""
+
+#: sc-taxonomie.php:39 simple-catalogue.php:87 simple-catalogue.php:127
+msgid "Add new item"
+msgstr ""
+
+#: sc-taxonomie.php:42
+msgid "View"
+msgstr ""
+
+#: sc-taxonomie.php:43
+msgid "Separate width commas"
+msgstr ""
+
+#: sc-taxonomie.php:44
+msgid "Add or remove"
+msgstr ""
+
+#: sc-taxonomie.php:45
+msgid "Most used"
+msgstr ""
+
+#: sc-taxonomie.php:46
+msgid "Populars"
+msgstr ""
+
+#: sc-taxonomie.php:47
+msgid "Search"
+msgstr ""
+
+#: sc-taxonomie.php:48
+msgid "Nothing found"
+msgstr ""
+
+#: simple-catalogue.php:56
+msgid "New catalogue item"
+msgstr "Nuevo elemento de catálogo"
+
+#: simple-catalogue.php:57
+msgid "Add Categories"
+msgstr "Añadir Categorías"
+
+#: simple-catalogue.php:58
+msgid "Simple Catalogue settings"
+msgstr "Configuración del catálogo"
+
+#: simple-catalogue.php:59
+msgid "Manage items"
+msgstr "Administrar artículos"
+
+#: simple-catalogue.php:60
+msgid "Add new items"
+msgstr "Añadir nuevos elementos"
+
+#: simple-catalogue.php:60
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: simple-catalogue.php:70 simple-catalogue.php:150 simple-catalogue.php:286
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: simple-catalogue.php:72
+msgid "New Custom Post type creation"
+msgstr "creación Tipo Nuevo Post personalizado"
+
+#: simple-catalogue.php:74 simple-catalogue.php:114
+msgid "Names"
+msgstr ""
+
+#: simple-catalogue.php:74 simple-catalogue.php:92 simple-catalogue.php:114
+#: simple-catalogue.php:132 simple-catalogue.php:168 simple-catalogue.php:183
+msgid "Slug"
+msgstr ""
+
+#: simple-catalogue.php:88
+msgid ""
+"You can add here a new item for your catalogue. Please fill these fields and "
+"validate for creation"
+msgstr ""
+"Puede añadir aquí un nuevo elemento para su catálogo. Rellene estos campos y "
+"validar la creación"
+
+#: simple-catalogue.php:92 simple-catalogue.php:94 simple-catalogue.php:95
+#: simple-catalogue.php:132 simple-catalogue.php:134 simple-catalogue.php:135
+msgid "(required)"
+msgstr ""
+
+#: simple-catalogue.php:93 simple-catalogue.php:133
+msgid ""
+"The identifier is the standardized version of the name . It generally "
+"contains only unaccented lowercase letters , numbers and underscores"
+msgstr ""
+
+#: simple-catalogue.php:96
+msgid "Enter your menu icon name"
+msgstr "Introduzca su nombre de menú del icono"
+
+#: simple-catalogue.php:97
+msgid ""
+"This will add a custom icon when you choose to display the item link as "
+"primary level admin menu link"
+msgstr ""
+
+#: simple-catalogue.php:97
+msgid "Please visit "
+msgstr "Por favor visita"
+
+#: simple-catalogue.php:98
+msgid "This page"
+msgstr "Esta página"
+
+#: simple-catalogue.php:99
+msgid ""
+"to choose your icon and enter the name like this : dashicons-exemple - if "
+"empty, dashicons-format-aside will be use."
+msgstr ""
+
+#: simple-catalogue.php:112
+msgid "New Category creation"
+msgstr "Nueva creación Categoría"
+
+#: simple-catalogue.php:128
+msgid ""
+"You can add here a new category for your items. Please fill these fields and "
+"validate for creation"
+msgstr ""
+"Usted puede agregar aquí una nueva categoría para sus artículos. Por favor, "
+"rellene estos campos y validar la creación"
+
+#: simple-catalogue.php:136
+msgid "Catalogue item for this category"
+msgstr "Artículo catálogo para esta categoría"
+
+#: simple-catalogue.php:154
+msgid ""
+"You like this plugin ? Thank you for supporting developer by making a "
+"donation"
+msgstr ""
+
+#: simple-catalogue.php:167
+msgid "Categories list"
+msgstr "Lista de Categorías"
+
+#: simple-catalogue.php:167 simple-catalogue.php:184
+msgid "Add"
+msgstr ""
+
+#: simple-catalogue.php:168 simple-catalogue.php:183
+msgid "Action"
+msgstr "Acción"
+
+#: simple-catalogue.php:182
+msgid "You can add or modify items and categories"
+msgstr "Puede agregar o modificar artículos y categorías"
+
+#: simple-catalogue.php:184
+msgid "Items list"
+msgstr "Lista de artículos"
+
+#: simple-catalogue.php:199
+msgid "Plugin Option"
+msgstr ""
+
+#: simple-catalogue.php:200
+msgid "Items as primary level menu"
+msgstr ""
+
+#: simple-catalogue.php:223 simple-catalogue.php:250
+msgid "Please fill the required fields"
+msgstr "Por favor, rellene los campos obligatorios"
+
+#: simple-catalogue.php:263 simple-catalogue.php:268
+msgid " was updated successfully"
+msgstr " se ha actualizado correctamente"
+
+#: simple-catalogue.php:276
+msgid "Entry was successfully deleted"
+msgstr "La entrada se ha eliminado correctamente"
+
+#: simple-catalogue.php:289
+msgid "Catalogue's settings"
+msgstr "Configuración del catálogo"
+
+#: simple-catalogue.php:290
+msgid "You can manage your catalogue here by deleting items and and categories"
+msgstr "Puede administrar su catálogo aquí eliminando artículos y y categorías"
+
+#: simple-catalogue.php:291
+msgid "Be careful when deleting an entry, this operation is not reversible !"
+msgstr "Tenga cuidado al borrar una entrada, esta operación no es reversible!"
+
+#: simple-catalogue.php:305
+msgid "Return to calatogue's settings"
+msgstr "Configuración del catálogo"
+
+#: validation.php:45 validation.php:56
+msgid "Error while saving : this slug already exists"
+msgstr "Error al guardar: esta babosa ya existe"
+
+#: validation.php:49 validation.php:60
+msgid "Entry was successfully saved"
+msgstr "La entrada se ha eliminado correctamente"
+
+#~ msgid "Entry was successfully saved "
+#~ msgstr "La entrada se ha eliminado correctamente"
